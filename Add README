@@ -1,0 +1,43 @@
+# 📝 To-Do Web App
+
+A simple and responsive To-Do List application built using HTML, CSS and JavaScript.
+
+## ✨ Features
+
+- ➕ Add Tasks
+- ✏️ Edit Tasks
+- 🗑️ Delete Tasks
+- ✅ Mark Tasks as Completed
+- 📊 Total Tasks Counter
+- 📈 Completed Tasks Counter
+- ⏳ Pending Tasks Counter
+- 💾 Local Storage Support
+- 📱 Responsive Design
+
+## 🛠️ Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript (DOM & Local Storage)
+
+## 📂 Project Structure
+
+```
+To-Do-App/
+│── index.html
+│── style.css
+│── script.js
+└── images/
+```
+
+## 🚀 How to Use
+
+1. Enter your task.
+2. Click the **Add** button.
+3. Edit or Delete tasks anytime.
+4. Click on a task to mark it completed.
+5. Data is automatically saved using Local Storage.
+
+## 👩‍💻 Author
+
+**Binal**
